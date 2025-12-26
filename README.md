@@ -33,3 +33,8 @@ This ensures accurate business interpretation.
 ## Notes
 - This is a sample retail dataset used for learning and analysis.
 - Dashboard name does not represent real company data.
+
+## Preview
+
+- <img width="1351" height="748" alt="Ecommerce_Dashboard_Overview" src="https://github.com/user-attachments/assets/ee663cdb-92fe-4b60-9324-0d1611a2b704" />
+
